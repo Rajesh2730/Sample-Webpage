@@ -1,0 +1,294 @@
+::-webkit-scrollbar{
+    display: none;
+}
+.bg-index{
+    background-color: rgb(249, 208, 159);
+}
+.major-div{
+    height: 100pc;
+    width: 96%;
+    background-color: white;
+    margin-top: 1.9rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.header{
+    padding-top: 2rem;
+    background-color: white;
+    height: 3rem;
+    margin-bottom: .8rem;
+    display: flex;
+}
+.logo{
+    margin-left: 6rem;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}   
+.bar{
+    margin-top: .4rem;
+}
+.bar1{
+    font-size: medium;
+    margin-left: 24rem;
+    cursor: pointer;
+}
+.bar2{
+    margin-left: .5rem;
+    cursor: pointer;
+}
+.bar3{
+    margin-left: .5rem;
+    margin-right: 1.3rem;
+    cursor: pointer;
+}
+.bar4{
+    cursor: pointer;
+}
+.accounts{
+    margin-left: 20rem;
+}
+.l_btn{
+    height: 2rem;
+    border-radius: 6px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: 0;
+    font-weight: 400;
+    cursor: pointer;
+    transition: .3s;
+}
+.l_btn:hover{
+    background-color: black;
+    color: white;
+}
+.s_btn{
+    height: 2rem;
+    border-radius: 6px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: 0;
+    font-weight: 400;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.banner{
+    background-image: url('kumarakom-lake-resort.jpg');
+    background-size: cover;
+    height: 35rem;
+    width: 83%;
+    margin-left: 6rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+.r-name{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: 24rem;
+    position: relative;
+    top: 26rem;
+    background-color: rgb(223, 217, 217,0.4);
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.r-place{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: 26rem;
+    position: relative;
+    top: 26.5rem;
+    background-color: rgb(223, 217, 217,0.4);
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right-ar{
+    border-radius: 1rem;
+    background-color: white;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    position: relative;
+    top: 12.5rem;
+    left: 20rem;
+    cursor: pointer;
+    transition: .3s;
+}
+.right-ar:hover{
+    background-color: black;
+    color: white;
+}
+.left-ar{
+    border-radius: 1rem;
+    background-color: white;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    position: relative;
+    top: 12.5rem;
+    left: -46rem;
+    cursor: pointer;
+    transition: .3s;
+}
+.left-ar:hover{
+    background-color: black;
+    color: white;
+}
+.datas{
+    height: 4rem;
+    width: 50%;
+    background-color: white;
+    position: relative;
+    top: -3rem;
+    left: 21rem;
+    border-radius: 9px;
+    display: flex;
+    padding-top: 2rem;
+}
+.location{
+    position: relative;
+    left: 3.5rem;
+}
+.loc{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 3px 5px 6px yellow;
+    font-weight: bold;
+}
+.loc1{
+    color: lightslategray;
+    border-bottom: 1px solid black;
+}
+.l-icon{
+    margin-left: 1rem;
+}
+.act{
+    position: relative;
+    left: 8rem;
+}
+.arrow-down{
+    padding-top: .5rem;
+    padding-right: .5rem ;
+    padding-bottom: .5rem;
+    padding-left: .5rem;
+    border: 1px solid black;
+    border-radius: 50px;
+    font-size: x-small;
+}
+.date{
+    position: relative;
+    left: 13rem;
+}
+.s-icon{
+    position: relative;
+    left: 16rem;
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+    color: white;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.page-cont{
+    margin-left: 6rem;
+}
+.name-tag{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+}
+.right-ar1{
+    border-radius: 1rem;
+    background-color: black;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    position: relative;
+    left: 47rem;
+    cursor: pointer;
+    transition: .3s;
+    border: 1px solid black;
+    color: white;
+}
+.left-ar1{
+    border-radius: 1rem;
+    background-color: white;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    position: relative;
+    left: 47rem;
+    cursor: pointer;
+    transition: .3s;
+    border: 1px solid black;
+}
+.left-ar1:hover{
+    color: white;
+    background-color: black;
+}
+.resort-list{
+    display: flex;
+    margin-top: 2rem;
+}
+.r-1{
+    height: auto;
+    width: 20rem;
+}
+.r-2{
+    height: auto;
+    width: 20rem;
+    margin-left: 2rem;
+}
+.r-1-i{
+    height: 10rem;
+    width: 18rem;
+    border-radius: 6px;
+    background-image: url(bora-bora-3023437_640.jpg);
+    background-size: cover;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+.ratings{
+    background-color: goldenrod;
+    color: white;
+    position: relative;
+    left: 15rem;
+    top: 1rem;
+    border-radius: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.r-2-i{
+    height: 10rem;
+    width: 18rem;
+    border-radius: 6px;
+    background-image: url('pexels-thorsten-technoman-109353-338504.jpg');
+    background-size: cover;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+.r-3-i{
+    height: 10rem;
+    width: 18rem;
+    border-radius: 6px;
+    background-image: url('pexels-vincent-gerbouin-445991-1167021.jpg');
+    background-size: cover;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+.r-4-i{
+    height: 10rem;
+    width: 18rem;
+    border-radius: 6px;
+    background-image: url('Ultimate-List-of-Best-Luxury-Hotels-in-Moorea-French-Polynesia-Hilton-Moorea-Lagoon-Resort-And-Spa.jpg');
+    background-size: cover;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
